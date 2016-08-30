@@ -1,0 +1,13 @@
+{
+	"success":true,
+	"messageID":"",
+	"message":"",
+	"data":{
+		"accessToken":"12c2585bd248a23b9b09d82b691fe1e7",
+		"cookieKey":"CLICKPLUS_COOKIE_IDENTIFICATION",
+		"expiryDate":604800,
+		"username":"王二小",
+		"email":"wangerxiao@sina.com",
+		"phone":"18956533358"
+	}
+}
